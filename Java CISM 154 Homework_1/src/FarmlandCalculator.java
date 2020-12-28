@@ -28,6 +28,8 @@ public class FarmlandCalculator {
 
 		// ***HINT***
 		// To determine acreage, divide the farm's land size by acreToSquareFeet.
+		
+		//New comment 12/28/2020 8:31 AM
 
 	}
 
