@@ -1,7 +1,7 @@
 
 /**
  * Create a program that calculates the number of acres a farm has based on a
- * value in square feet
+ * value in square feet.
  * 
  * 
  * @author Josh Alcoba
